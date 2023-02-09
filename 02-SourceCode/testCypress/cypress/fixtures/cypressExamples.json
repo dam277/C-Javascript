@@ -1,0 +1,11 @@
+{
+    "cypressForm" : 
+    {
+        "url" : "http://localhost:2222/CypressForm/index.php",
+        "login" : 
+        {
+            "username" : "admin",
+            "password" : "password"
+        }
+    }
+}

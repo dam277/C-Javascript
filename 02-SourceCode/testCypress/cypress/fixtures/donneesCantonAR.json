@@ -1,0 +1,133 @@
+{
+  "multiLangue": false,
+  "version": "428.30.25",
+  "eAuction": {
+      "url": "https://eauktion.ar.ch",
+      "nombreOnglet": "3",
+      "tempsAffichage": "",
+      "texts": {
+          "titre": "Kontrollschilderauktion",
+          "lienNewUser": "Registrieren",
+          "lienLogin": "Login",
+          "onglet1": "Laufende Versteigerungen",
+          "onglet2": "Registrierung für eine zukünftige Versteigerung",
+          "onglet3": "Kontrollschild Direktverkauf"
+      }
+  },
+  "eAdresse": {
+      "url": "https://stva-adresse.ar.ch/ecari-adresse/ui/app/init?locale=de_ch",
+      "nombreDePermis": "5",
+      "infoDetenteur": {
+          "numeroPCC": "2944638005",
+          "dateNaissance": "08.01.1977"
+      },
+      "texts": {
+          "titre": "IDENTIFIKATION HALTER",
+          "textExplication": "Bitte identifizieren Sie sich, indem Sie auf eines der Bilder unten klicken, entsprechend einem Ihrer Ausweise. Nachdem Sie die neue Adresse bestätigt haben, ist die Adresse für alle Ihre Ausweise korrigiert (ein einziger Adresswechsel genügt).",
+          "sousTitre": "",
+          "textSousTitre": "",
+          "circulation1": "Fahrzeugausweis",
+          "circulation2": "Motorwagen, Motorrad",
+          "autorisation1": "Bewilligungskarte",
+          "autorisation2": "Theorie, Praktische Prüfung",
+          "eleve1": "Lernfahrausweis",
+          "eleve2": "Motorwagen, Motorrad",
+          "conduireBleu1": "Führerausweis",
+          "conduireBleu2": "blauer Ausweis",
+          "conduireCarte1": "Führerausweis",
+          "conduireCarte2": "FAK, FAP",
+          "champObligatoire": "Obligatorisch",
+          "champsCarteGrise": {
+              "titre": "Identifizierung mit Fahrzeugausweis",
+              "text": "Geben Sie bitte die Register-Nr., Ihr Geburtsdatum sowie die Stamm-Nr. ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "numMatric": "Stamm-Nr."
+          },
+          "champAutorisation": {
+              "titre": "Identifizierung mit Bewilligungskarte",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champEleve": {
+              "titre": "Identifizierung mit Lernfahrausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champBleu": {
+              "titre": "Identifizierung mit blauem Führerausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Prüfungsdatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Prüfungsdatum"
+          },
+          "champPCC": {
+              "titre": "Identifizierung mit FAK/FAP",
+              "text": "Geben Sie bitte Ihr Geburtsdatum sowie die Ausweis-Nr. (Ziffer 5.) ein",
+              "dateNaiss": "Geburtsdatum",
+              "numPermis": "Ausweis-Nr."
+          }
+      }
+  },
+  "eMedco": {
+      "url": "https://10.20.237.142/ecari-medko/",
+      "token": "",
+      "user": "",
+      "password": ""
+  },
+  "eDispo":{
+    "url": "https://stva-adresse.ar.ch/ecari-dispoweb",
+    "textMainPageDE" : {
+      "titre" : "Seite nicht gefunden",
+      "sousTitre" : "Die aufgerufene Seite konnte nicht gefunden werden. Bitte versuchen Sie es mit einem der untenstehenden Links:",
+      "langue" : "Sprache",
+      "vehiculePrive": "Fahrzeugprüfungen",
+      "vehiculePartenaire": "Fahrzeugprüfungen für Partner",
+      "conduitePrivee": "Führerprüfungen",
+      "conduiteMoniteur" : "Prüfungstermine für Fahrlehrer"
+    },
+    "vehiculePriveDE":{
+      "titre" : "Online Dispo - Fahrzeugprüfungen",
+      "login" : "Login",
+      "loginH": "Login Hilfe",
+      "helpLien" : "Klicken Sie hier, um die notwendigen Informationen auf dem Aufgebot zu suchen.",
+      "numRDV" : "Aufgebot Nr.",
+      "numeroMatricule" : "Stammnummer",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePartenaireDE" :{
+      "titre" : "Online Dispo - Fahrzeugprüfungen für Partner",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "disposition",
+      "emailPartie02": "strassenverkehrsamtar.ch"
+    },
+    "conduitePriveeDE":{
+      "titre" : "Online Dispo - Führerprüfungen",
+      "login" : "Login",
+      "loginH": "Login Hilfe",
+      "numeroCandidat" : "Kandidaten-Nr.",
+      "dateNaissance" : "Geburtsdatum",
+      "sousTitre" : "Klicken Sie hier, um zu sehen, wo sich die Personen-Nummer auf Ihrer Zulassungsbestätigung oder Ihrem Lernfahrausweis befindet.",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "conduiteMoniteurDE": {
+      "titre" : "Online Dispo - Prüfungstermine für Fahrlehrer",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "disposition",
+      "emailPartie02": "strassenverkehrsamtar.ch",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    }
+  }
+}

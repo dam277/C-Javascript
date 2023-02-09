@@ -1,0 +1,66 @@
+{
+    "url" : "https://carisrvvs.networkers.ch:8444/frontend",
+    "url2" : "http://localhost:4432/",
+    "version" : "429.09-SNAPSHOT 06.02.2023 17:25:45",
+    "languages" : 
+    [
+        "fr",
+        "de"
+    ],
+    "connection" :
+    {
+        "name" : "admin",
+        "password" : "password"
+    },
+    "pagesTitle" : 
+    {
+        "include" : "cari VS QA >"
+    },
+    "quickAccess" :
+    {
+        "tabNumber" : 6
+    },
+    "text" : 
+    {
+        "de": 
+        {
+            "loginPage" : 
+            {
+                "authentification" : "Authentifizierung",
+                "username" : "Benutzername",
+                "password" : "Passwort",
+                "login" : "Login"
+            },
+            "quickAccess" : 
+            {
+                "title" : "Schnell Zugriff",
+                "nav1" : "Druckverwaltung",
+                "nav2" : "Disposition",
+                "nav3" : "Umtausch FAP/FAK",
+                "nav4" : "eVn",
+                "nav5" : "eSk",
+                "nav6" : "Schifffahrt - sVn/eSk"
+             }
+        },
+        "fr" :
+        {
+            "loginPage" : 
+            {
+                "authentification" : "Authentification",
+                "username" : "Identifiant",
+                "password" : "Mot de passe",
+                "login" : "Login"
+            },
+            "quickAccess" : 
+            {
+                "title" : "Accès rapide",
+                "nav1" : "Administration des impressions",
+                "nav2" : "Ordonnancement",
+                "nav3" : "Echange PCE/PCC",
+                "nav4" : "AAe",
+                "nav5" : "eSk",
+                "nav6" : "Navigation - sVn/eSk"
+            }
+        }
+    }
+}

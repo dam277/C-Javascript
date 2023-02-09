@@ -1,0 +1,260 @@
+{
+  "multiLangue": false,
+  "version": "428.30.25",
+  "eAuction": {
+      "url": "https://ecari.vs.ch/ecari-auction/",
+      "nombreOnglet": "3",
+      "tempsAffichage": "",
+      "texts": {
+        "fr": {
+          "titre": "Plaques aux enchères",
+          "lienNewUser": "Créer utilisateur",
+          "lienLogin": "Login",
+          "basPage1": "Service de la circulation routière",
+          "basPage2": ", Service d'assistance téléphonique: 027 606 71 00",
+          "basPage3": "Canton du Valais",
+          "onglet1": "Enchères en cours",
+          "onglet2": "Inscription pour les futures enchères",
+          "onglet3": "Plaques souhaitées",
+          "textPlaque01": "N° Plaque",
+          "textPlaque02": "Plaques entre",
+          "textPlaque03": "Prix entre",
+          "langFR": "FR"
+        },
+        "de": {
+          "titre": "Kontrollschilderauktion",
+          "lienNewUser": "Registrieren",
+          "lienLogin": "Login",
+          "basPage1": "Service de la circulation routière",
+          "basPage2": ", Telefon-Hotline: 027 606 71 00",
+          "basPage3": "Kanton Wallis",
+          "onglet1": "Laufende Versteigerungen",
+          "onglet2": "Registrierung für eine zukünftige Versteigerung",
+          "onglet3": "Wunschkontrollschild",
+          "textPlaque01": "Kontrollschild",
+          "textPlaque02": "Kontrollschilder zwischen",
+          "textPlaque03": "Preis zwischen",
+          "langDE": "DE"
+        }
+      }
+  },
+  "eAdresse": {
+      "urlFr": "https://ecari.vs.ch/ecari-adresse/ui/app/init?locale=fr_ch",
+      "urlDe": "https://ecari.vs.ch/ecari-adresse/ui/app/init?locale=de_ch",
+      "nombreDePermis": "5",
+      "infoDetenteur": {
+          "numeroPCC": "001358814002",
+          "dateNaissance": "22.01.1979"
+      },
+      "texts": {
+        "fr":{
+            "textsLoginPage":{
+              "titre": "Service de la circulation routière et de la navigation SCN",
+              "sousTitre": "Changement d'adresse",
+              "text1": "Veuillez procéder à l'identification en suivant le lien ci-dessous",
+              "text2": "Veuillez procéder à l'identification en suivant le lien ci-dessous",
+              "bouton1": "Identification"
+            },
+            "titre": "IDENTIFICATION DÉTENTEUR",
+            "textExplication": "Veuillez vous identifier en cliquant sur une des images ci-dessous, correspondant à un permis en votre possession. Après validation de votre nouvelle adresse, celle-ci sera effective pour tous vos permis (un seul changement d’adresse suffit).",
+            "circulation1": "Permis de circulation",
+            "circulation2": "Voiture, Moto",
+            "autorisation1": "Carte d'autorisation",
+            "autorisation2": "Théorie, Pratique",
+            "eleve1": "Permis d'élève",
+            "eleve2": "Voiture, Moto",
+            "conduireBleu1": "Permis de conduire",
+            "conduireBleu2": "Permis bleu, Bateau",
+            "conduireCarte1": "Permis de conduire",
+            "conduireCarte2": "PCC, PCE",
+            "champObligatoire": "Champ obligatoire",
+            "champsCarteGrise": {
+                "titre": "Identification avec permis de circulation",
+                "text": "Veuillez saisir le n° de registre, votre date de naissance et le n° de matricule",
+                "numRegistre": "N° de registre",
+                "dateNaiss": "Date de naissance",
+                "numMatric": "N° de matricule"
+            },
+            "champAutorisation": {
+                "titre": "Identification avec carte d'autorisation",
+                "text": "Veuillez saisir le n° de registre, votre date de naissance et une date de début de validité",
+                "numRegistre": "N° de registre",
+                "dateNaiss": "Date de naissance",
+                "dateEtabli": "Date d'établissement"
+            },
+            "champEleve": {
+                "titre": "Identification avec permis d'élève",
+                "text": "Veuillez saisir le n° de registre, votre date de naissance et une date de début de validité",
+                "numRegistre": "N° de registre",
+                "dateNaiss": "Date de naissance",
+                "dateEtabli": "Date d'établissement"
+            },
+            "champBleu": {
+                "titre": "Identification avec permis bleu voiture/bateau",
+                "text": "Veuillez saisir le n° de registre, votre date de naissance et une date de début de validité",
+                "numRegistre": "N° de registre",
+                "dateNaiss": "Date de naissance",
+                "dateEtabli": "Date d'examen"
+            },
+            "champPCC": {
+                "titre": "Identification avec PCC / PCE",
+                "text": "Veuillez saisir le n° de permis (chiffre 5.) et votre date de naissance",
+                "dateNaiss": "Date de naissance",
+                "numPermis": "N° du permis"
+            }
+        },
+        "de":{
+          "textsLoginPage":{
+            "titre": "Strassenverkehrs- und Schifffahrtsamt",
+            "sousTitre": "Online Adressänderung",
+            "text1": "Mit diesem Online-Dienst können natürliche Personen Änderungen Ihrer Halter-Adresse (Wohnsitzadresse) innerhalb des Kantons Wallis direkt beim Dienststelle für Strassenverkehr und Schifffahrt (DSUS) nachführen.",
+            "text2": "Bitte identifizieren Sie sich über untenstehenden Link",
+            "bouton1": "Identifizierung"
+          },
+          "titre": "IDENTIFIKATION HALTER",
+          "textExplication": "Bitte identifizieren Sie sich, indem Sie auf eines der Bilder unten klicken, entsprechend einem Ihrer Ausweise. Nachdem Sie die neue Adresse bestätigt haben, ist die Adresse für alle Ihre Ausweise korrigiert (ein einziger Adresswechsel genügt).",
+          "sousTitre": "",
+          "textSousTitre": "",
+          "circulation1": "Fahrzeugausweis",
+          "circulation2": "Motorwagen, Motorrad",
+          "autorisation1": "Bewilligungskarte",
+          "autorisation2": "Theorie, Praktische Prüfung",
+          "eleve1": "Lernfahrausweis",
+          "eleve2": "Motorwagen, Motorrad",
+          "conduireBleu1": "Führerausweis",
+          "conduireBleu2": "blauer Ausweis",
+          "conduireCarte1": "Führerausweis",
+          "conduireCarte2": "FAK, FAP",
+          "champObligatoire": "Obligatorisch",
+          "champsCarteGrise": {
+              "titre": "Identifizierung mit Fahrzeugausweis",
+              "text": "Geben Sie bitte die Register-Nr., Ihr Geburtsdatum sowie die Stamm-Nr. ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "numMatric": "Stamm-Nr."
+          },
+          "champAutorisation": {
+              "titre": "Identifizierung mit Bewilligungskarte",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champEleve": {
+              "titre": "Identifizierung mit Lernfahrausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champBleu": {
+              "titre": "Identifizierung mit blauem Führer-, Schiffsausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Prüfungsdatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Prüfungsdatum"
+          },
+          "champPCC": {
+              "titre": "Identifizierung mit FAK/FAP",
+              "text": "Geben Sie bitte Ihr Geburtsdatum sowie die Ausweis-Nr. (Ziffer 5.) ein",
+              "dateNaiss": "Geburtsdatum",
+              "numPermis": "Ausweis-Nr."
+          }
+        }
+      }
+    },
+    "eDispo":{
+      "url": "https://ecari.vs.ch/ecari-dispoweb/",
+      "textMainPageDE" : {
+        "titre" : "Seite nicht gefunden",
+        "sousTitre" : "Die aufgerufene Seite konnte nicht gefunden werden. Bitte versuchen Sie es mit einem der untenstehenden Links:",
+        "langue" : "Sprache",
+        "vehiculePrive": "Fahrzeugprüfungen",
+        "vehiculePartenaire": "Fahrzeugprüfungen für Partner",
+        "conduitePrivee": "Führerprüfungen",
+        "conduiteMoniteur" : "Prüfungstermine für Fahrlehrer"
+      },
+      "textMainPageFR" : {
+        "titre" : "Page pas trouvée",
+        "sousTitre" : "La page recherchée n'a pas été trouvée. Veuillez utiliser un des liens ci-dessous:",
+        "langue" : "Langue",
+        "vehiculePrive": "Expertises véhicules",
+        "vehiculePartenaire": "Expertises véhicules pour partenaires",
+        "conduitePrivee": "Examens conduite",
+        "conduiteMoniteur" : "Examens conduite pour moniteurs"
+    },
+    "vehiculePriveDE":{
+      "titre" : "Online Dispo - Fahrzeugprüfungen",
+      "login" : "Login",
+      "helpLien" : "Information neues Zentrum in Sitten",
+      "numRDV" : "Aufgebot Nr.",
+      "numeroMatricule" : "Stammnummer",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePartenaireDE" :{
+      "titre" : "Online Dispo - Fahrzeugprüfungen für Partner",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "scn-helpdesk",
+      "emailPartie02": "admin.vs.ch"
+    },
+    "conduitePriveeDE":{
+      "titre" : "Online Dispo - Führerprüfungen",
+      "login" : "Login",
+      "numeroCandidat" : "Kandidaten-Nr.",
+      "dateNaissance" : "Geburtsdatum",
+      "sousTitre" : "Klicken Sie hier, um zu sehen, wo sich die Personen-Nummer auf Ihrer Zulassungsbestätigung oder Ihrem Lernfahrausweis befindet.",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "conduiteMoniteurDE": {
+      "titre" : "Online Dispo - Prüfungstermine für Fahrlehrer",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "scn-helpdesk",
+      "emailPartie02": "admin.vs.ch",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePriveFR": {
+      "titre" : "DispoWeb - Expertises véhicules",
+      "login" : "Login",
+      "helpLien" : "Cliquez ici, pour rechercher les données nécessaires",
+      "numRDV" : "N° Convocation",
+      "numeroMatricule" : "N° Matricule",
+      "champsObligatoire" : "Ce champ est obligatoire"
+    },
+    "vehiculePartenaireFR": {
+      "titre" : "DispoWeb - Expertises véhicules pour partenaires",
+      "login" : "Login",
+      "user" : "Utilisateur",
+      "pass" : "Mot de passe",
+      "sousTitre" : "Si vous avez oublié votre mot de passe, veuillez s'il vous plaît nous contacter à l'adresse :",
+      "champsObligatoire" : "Ce champ est obligatoire",
+      "emailPartie01": "scn-helpdesk",
+      "emailPartie02": "admin.vs.ch"
+    },
+    "conduitePriveeFR": {
+      "titre" : "DispoWeb - Examens conduite",
+      "login" : "Login",
+      "numeroCandidat" : "N° candidat",
+      "dateNaissance" : "Date de naissance",
+      "sousTitre" : "Cliquez ici, pour rechercher les données nécessaires",
+      "champsObligatoire" : "Ce champ est obligatoire"
+    },
+    "conduiteMoniteurFR": {
+      "titre" : "DispoWeb - Examens conduite pour moniteurs",
+      "login" : "Login",
+      "user" : "Utilisateur",
+      "pass" : "Mot de passe",
+      "sousTitre" : "Si vous avez oublié votre mot de passe, veuillez s'il vous plaît nous contacter à l'adresse :",
+      "champsObligatoire" : "Ce champ est obligatoire",
+      "emailPartie01": "scn-helpdesk",
+      "emailPartie02": "admin.vs.ch"
+    }
+  }
+}

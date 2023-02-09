@@ -1,0 +1,70 @@
+{
+"version": "428.30.25",
+"eAuction": {
+    "url": "https://eauktion.so.ch/ecari-auction",
+    "nombreOnglet": "2",
+    "tempsAffichage": "",
+    "texts": {
+      "de": {
+        "titre": "Kontrollschilderauktion",
+        "lienNewUser": "Registrieren",
+        "lienLogin": "Login",
+        "basPage1": "MFK, Gurzelenstrasse 3, 4512 Bellach, Tel. +41 32 627 66 66",
+        "basPage2": "© 2019 -  Solothurn",
+        "onglet1": "Laufende Versteigerungen",
+        "onglet2": "Kontrollschild Direktverkauf",
+        "onglet3": "Wunschkontrollschild"
+      }
+    }
+  },
+  "eDispo":{
+    "url": "https://eauktion.so.ch/ecari-dispoweb",
+    "textMainPageDE" : {
+      "titre" : "Seite nicht gefunden",
+      "sousTitre" : "Die aufgerufene Seite konnte nicht gefunden werden. Bitte versuchen Sie es mit einem der untenstehenden Links:",
+      "langue" : "Sprache",
+      "vehiculePrive": "Fahrzeugprüfungen",
+      "vehiculePartenaire": "Fahrzeugprüfungen für Partner",
+      "conduitePrivee": "Führerprüfungen",
+      "conduiteMoniteur" : "Prüfungstermine für Fahrlehrer"
+    },
+    "vehiculePriveDE":{
+      "titre" : "Online Dispo - Fahrzeugprüfungen",
+      "login" : "Login",
+      "helpLien" : "Klicken Sie hier, um die notwendigen Informationen auf dem Aufgebot zu suchen.",
+      "numRDV" : "Aufgebot Nr.",
+      "numeroMatricule" : "Stammnummer",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePartenaireDE" :{
+      "titre" : "Online Dispo - Fahrzeugprüfungen für Partner",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01_remplace": "martin.jaeggi",
+      "emailPartie01": "dispo",
+      "emailPartie02": "mfk.so.ch"
+    },
+    "conduitePriveeDE":{
+      "titre" : "Online Dispo - Führerprüfungen",
+      "login" : "Login",
+      "numeroCandidat" : "Personen-Nr.",
+      "dateNaissance" : "Geburtsdatum",
+      "sousTitre" : "Klicken Sie hier, um zu sehen, wo sich die Personen-Nummer auf Ihrer Zulassungsbestätigung oder Ihrem Lernfahrausweis befindet.",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "conduiteMoniteurDE": {
+      "titre" : "Online Dispo - Prüfungstermine für Fahrlehrer",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "dispo",
+      "emailPartie02": "mfk.so.ch",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    }
+  }
+}

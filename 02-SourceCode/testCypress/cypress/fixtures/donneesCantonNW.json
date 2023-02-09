@@ -1,0 +1,94 @@
+{
+  "multiLangue": false,
+  "version": "428.10.138",
+  "eAuction": {
+      "url": "https://vsz-eauktion-nw.ilz.info/ecari-auction",
+      "nombreOnglet": "3",
+      "tempsAffichage": "",
+      "texts": {
+        "de": {
+          "titre": "Kontrollschilderauktion",
+          "lienNewUser": "Registrieren",
+          "lienLogin": "Login",
+          "basPage": "",
+          "onglet1": "Laufende Versteigerungen",
+          "onglet2": "Kontrollschild Direktverkauf",
+          "onglet3": "Wunschkontrollschild",
+          "textPlaque01": "Kontrollschild",
+          "textPlaque02": "Kontrollschilder zwischen",
+          "textPlaque03": "Preis zwischen"
+        }
+      }
+  },
+  "eMedco": {
+    "url": "https://vsz-eauktion-nw.ilz.info/ecari-medko",
+    "texts": {
+      "de": {
+        "titre01": "Verkehrsmedizinische",
+        "titre02": "Kontrolluntersuchung",
+        "titre03": "Verkehrssicherheitszentrum des Kantons Nidwalden",
+        "login": "Identifikation",
+        "input01": "Kontrolluntersuchungsnummer",
+        "input02": "Global Location Number (GLN)",
+        "input03": "Passwort",
+        "bouton": "Starten",
+        "basPage01": "Verkehrssicherheitszentrum Nidwalden, Kreuzstrasse 2, 6371 Stans,",
+        "basPage02": "041 618 41 41, info@vsz.ch, https://www.vsz.ch/",
+        "popup":{
+          "titre": "Authentifizierung gescheitert",
+          "text": "Die Informationen des Arztes sind ungültig.",
+          "bouton": "OK"
+        }
+      }
+    }
+  },
+  "eDispo":{
+    "url": "https://vsz-eauktion-nw.ilz.info/ecari-dispoweb/ui/app/init/#/",
+    "textMainPageDE" : {
+      "titre" : "Seite nicht gefunden",
+      "sousTitre" : "Die aufgerufene Seite konnte nicht gefunden werden. Bitte versuchen Sie es mit einem der untenstehenden Links:",
+      "langue" : "Sprache",
+      "vehiculePrive": "Fahrzeugprüfungen",
+      "vehiculePartenaire": "Fahrzeugprüfungen für Partner",
+      "conduitePrivee": "Führerprüfungen",
+      "conduiteMoniteur" : "Prüfungstermine für Fahrlehrer"
+    },
+  "vehiculePriveDE":{
+    "titre" : "Online Dispo - Fahrzeugprüfungen",
+    "login" : "Login",
+    "helpLien" : "Klicken Sie hier, um die notwendigen Informationen auf dem Aufgebot zu suchen.",
+    "numRDV" : "Aufgebot Nr.",
+    "numeroMatricule" : "Stammnummer",
+    "champsObligatoire" : "Dieses Feld ist erforderlich"
+  },
+  "vehiculePartenaireDE" :{
+    "titre" : "Online Dispo - Fahrzeugprüfungen für Partner",
+    "login" : "Login",
+    "user" : "Benutzer",
+    "pass" : "Passwort",
+    "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+    "champsObligatoire" : "Dieses Feld ist erforderlich",
+    "emailPartie01": "info",
+    "emailPartie02": "vsz.ch"
+  },
+  "conduitePriveeDE":{
+    "titre" : "Online Dispo - Führerprüfungen",
+    "login" : "Login",
+    "numeroCandidat" : "Kandidaten-Nr.",
+    "dateNaissance" : "Geburtsdatum",
+    "sousTitre" : "Klicken Sie hier, um zu sehen, wo sich die Personen-Nummer auf Ihrer Zulassungsbestätigung oder Ihrem Lernfahrausweis befindet.",
+    "champsObligatoire" : "Dieses Feld ist erforderlich"
+  },
+  "conduiteMoniteurDE": {
+    "titre" : "Online Dispo - Prüfungstermine für Fahrlehrer",
+    "login" : "Login",
+    "user" : "Benutzer",
+    "pass" : "Passwort",
+    "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+    "champsObligatoire" : "Dieses Feld ist erforderlich",
+    "emailPartie01": "info",
+    "emailPartie02": "vsz.ch",
+    "champsObligatoire" : "Dieses Feld ist erforderlich"
+  }
+ }
+}

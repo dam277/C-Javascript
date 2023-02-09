@@ -1,0 +1,161 @@
+{
+  "version": "428.30.19",
+    "eDispo":{
+      "url": "https://adm.appls.fr.ch/ocn/ecari-dispoweb/ui/app/init/#/",
+      "textMainPageDE" : {
+        "titre" : "Seite nicht gefunden",
+        "sousTitre" : "Die aufgerufene Seite konnte nicht gefunden werden. Bitte versuchen Sie es mit einem der untenstehenden Links:",
+        "langue" : "Sprache",
+        "vehiculePrive": "Fahrzeugprüfungen",
+        "vehiculePartenaire": "Fahrzeugprüfungen für Partner",
+        "conduitePrivee": "Führerprüfungen",
+        "conduiteMoniteur" : "Prüfungstermine für Fahrlehrer"
+      },
+      "textMainPageFR" : {
+        "titre" : "Page pas trouvée",
+        "sousTitre" : "La page recherchée n'a pas été trouvée. Veuillez utiliser un des liens ci-dessous:",
+        "langue" : "Langue",
+        "vehiculePrive": "Expertises véhicules",
+        "vehiculePartenaire": "Expertises véhicules pour partenaires",
+        "conduitePrivee": "Examens conduite",
+        "conduiteMoniteur" : "Examens conduite pour moniteurs"
+    },
+    "vehiculePriveDE":{
+      "titre" : "Online Dispo - Fahrzeugprüfungen",
+      "login" : "Login",
+      "helpLien" : "Klicken Sie hier, um die notwendigen Informationen auf dem Aufgebot zu suchen.",
+      "numRDV" : "Aufgebot Nr.",
+      "numeroMatricule" : "Stammnummer",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePartenaireDE" :{
+      "titre" : "Online Dispo - Fahrzeugprüfungen für Partner",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "info",
+      "emailPartie02": "ocn.ch"
+    },
+    "conduitePriveeDE":{
+      "titre" : "Online Dispo - Führerprüfungen",
+      "login" : "Login",
+      "numeroCandidat" : "Kandidaten-Nr.",
+      "dateNaissance" : "Geburtsdatum",
+      "sousTitre" : "Klicken Sie hier, um zu sehen, wo sich die Personen-Nummer auf Ihrer Zulassungsbestätigung oder Ihrem Lernfahrausweis befindet.",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "conduiteMoniteurDE": {
+      "titre" : "Online Dispo - Prüfungstermine für Fahrlehrer",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "info",
+      "emailPartie02": "ocn.ch",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePriveFR": {
+      "titre" : "DispoWeb - Expertises véhicules",
+      "login" : "Login",
+      "helpLien" : "Cliquez ici, pour rechercher les données nécessaires",
+      "numRDV" : "N° Convocation",
+      "numeroMatricule" : "N° Matricule",
+      "champsObligatoire" : "Ce champ est obligatoire"
+    },
+    "vehiculePartenaireFR": {
+      "titre" : "DispoWeb - Expertises véhicules pour partenaires",
+      "login" : "Login",
+      "user" : "Utilisateur",
+      "pass" : "Mot de passe",
+      "sousTitre" : "Si vous avez oublié votre mot de passe, veuillez s'il vous plaît nous contacter à l'adresse :",
+      "champsObligatoire" : "Ce champ est obligatoire",
+      "emailPartie01": "info",
+      "emailPartie02": "ocn.ch"
+    },
+    "conduitePriveeFR": {
+      "titre" : "DispoWeb - Examens conduite",
+      "login" : "Login",
+      "numeroCandidat" : "N° candidat",
+      "dateNaissance" : "Date de naissance",
+      "sousTitre" : "Cliquez ici, pour rechercher les données nécessaires",
+      "champsObligatoire" : "Ce champ est obligatoire"
+    },
+    "conduiteMoniteurFR": {
+      "titre" : "DispoWeb - Examens conduite pour moniteurs",
+      "login" : "Login",
+      "user" : "Utilisateur",
+      "pass" : "Mot de passe",
+      "sousTitre" : "Si vous avez oublié votre mot de passe, veuillez s'il vous plaît nous contacter à l'adresse :",
+      "champsObligatoire" : "Ce champ est obligatoire",
+      "emailPartie01": "info",
+      "emailPartie02": "ocn.ch"
+    }
+  },
+  "eAuction": {
+      "url": "https://adm.appls.fr.ch/ocn/ecari-auction",
+      "nombreOnglet": "3",
+      "tempsAffichage": "",
+      "texts": {
+        "fr": {
+          "titre": "Plaques aux enchères",
+          "lienNewUser": "Créer utilisateur",
+          "lienLogin": "Login",
+          "basPage1": "Office de la circulation et de la navigation Fribourg (OCN)",
+          "basPage2": "Secteur circulation +41 26 484 55 44",
+          "onglet1": "Enchères en cours",
+          "onglet2": "Réservation de plaque",
+          "onglet3": "Plaques souhaitées",
+          "lienLangue1":"DE",
+          "lienLangue2":"FR"
+        },
+        "de": {
+          "titre": "Kontrollschilderauktion",
+          "lienNewUser": "Registrieren",
+          "lienLogin": "Login",
+          "basPage1": "Amt für Strassenverkehr und Schifffahrt Freiburg (OCN)",
+          "basPage2": "Sektor Fahrzeugzulassung +41 26 484 55 44",
+          "onglet1": "Laufende Versteigerungen",
+          "onglet2": "Kontrollschild Direktverkauf",
+          "onglet3": "Wunschkontrollschild",
+          "lienLangue1":"DE",
+          "lienLangue2":"FR"
+        }
+      }
+    },
+    "eMedco":{
+      "url":"http://spocnapp02.ad.net.fr.ch:8080/ecari-medko",
+      "user":"tot",
+      "pass":"titi",
+      "token":"FR56666",
+      "logo_img":"logo.png",
+      "texts":{
+        "titre_H_1" : "Examen médical",
+        "titre_H_2" : "Identification",
+        "titre_H_3" : "d'aptitude à la conduite",
+        "titre_H_4" : "OCN Fribourg",
+        "titre_B_1" : "Office de la circulation et de la navigation Fribourg, Route de Tavel 10, 1700 Fribourg, 026 484 55 55, info@ocn.ch, https://www.ocn.ch",
+        "popup_t_1" : "Echec à l'authentification",
+        "popup_t_2" : "Les informations du médecin ne sont pas valides."
+      }
+    },
+    "permisCirculation" : {
+      "url":"https://adm.appls.fr.ch/ocn/ecari-permis-circulation",
+      "texts":{
+        "langues":{
+          "fr": "FR",
+          "de": "DE"
+        },
+        "login" : "Login",
+        "user"  : "Nom d'utilisateur:",
+        "pass"  : "Mot de passe:",
+        "motPassVoir" : "Voir le mot de passe",
+        "oubliePass" : "Mot de passe oublié ?"
+      }
+    },
+    "recherchDetenteur":{
+      "url":"https://adm.appls.fr.ch/ocn/ecari-rechDet"
+    }
+}

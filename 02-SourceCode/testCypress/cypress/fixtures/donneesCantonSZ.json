@@ -1,0 +1,93 @@
+{
+  "multiLangue": false,
+  "version": "428.10.67",
+  "eAuction": {
+      "url": "https://cariegov.sz.ch/ecari-auction",
+      "nombreOnglet": "2",
+      "tempsAffichage": "",
+      "texts": {
+        "de": {
+          "titre": "Kontrollschilderauktion",
+          "lienNewUser": "Registrieren",
+          "lienLogin": "Login",
+          "basPage1": "MFK, Gurzelenstrasse 3, 4512 Bellach, Tel. +41 32 627 66 66",
+          "basPage2": "© 2019 -  Solothurn",
+          "onglet1": "Laufende Versteigerungen",
+          "onglet2": "Kontrollschild Direktverkauf",
+          "onglet3": "Wunschkontrollschild"
+        }
+      }
+  },
+  "eAdresse": {
+      "url": "https://cariegov.sz.ch/ecari-adresse/",
+      "nombreDePermis": "5",
+      "infoDetenteur": {
+          "numeroPCC": "006056536003",
+          "dateNaissance": "02.02.1978"
+      },
+      "texts": {
+          "textsLoginPage":{
+            "titre": "Online Adressänderung",
+            "text": "Mit diesem Online-Dienst können natürliche Personen Änderungen Ihrer Halter-Adresse (Wohnsitzadresse) innerhalb des Kanton Schwyz direkt beim Strassenverkehrs- und Schifffahrtsamt Schwyz nachführen.",
+            "bouton1": "Identifizierung",
+            "bouton2": "Beenden"
+          },
+          "titre": "IDENTIFIKATION HALTER",
+          "textExplication": "Bitte identifizieren Sie sich, indem Sie auf eines der Bilder unten klicken, entsprechend einem Ihrer Ausweise. Nachdem Sie die neue Adresse bestätigt haben, ist die Adresse für alle Ihre Ausweise korrigiert (ein einziger Adresswechsel genügt).",
+          "sousTitre": "",
+          "textSousTitre": "",
+          "circulation1": "Fahrzeugausweis",
+          "circulation2": "Motorwagen, Motorrad",
+          "autorisation1": "Bewilligungskarte",
+          "autorisation2": "Theorie, Praktische Prüfung",
+          "eleve1": "Lernfahrausweis",
+          "eleve2": "Motorwagen, Motorrad",
+          "conduireBleu1": "Führerausweis",
+          "conduireBleu2": "blauer Ausweis",
+          "conduireCarte1": "Führerausweis",
+          "conduireCarte2": "FAK, FAP",
+          "champObligatoire": "Obligatorisch",
+          "champsCarteGrise": {
+              "titre": "Identifizierung mit Fahrzeugausweis",
+              "text": "Geben Sie bitte die Register-Nr., Ihr Geburtsdatum sowie die Stamm-Nr. ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "numMatric": "Stamm-Nr."
+          },
+          "champAutorisation": {
+              "titre": "Identifizierung mit Bewilligungskarte",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champEleve": {
+              "titre": "Identifizierung mit Lernfahrausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champBleu": {
+              "titre": "Identifizierung mit blauem Führerausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Prüfungsdatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Prüfungsdatum"
+          },
+          "champPCC": {
+              "titre": "Identifizierung mit FAK/FAP",
+              "text": "Geben Sie bitte Ihr Geburtsdatum sowie die Ausweis-Nr. (Ziffer 5.) ein",
+              "dateNaiss": "Geburtsdatum",
+              "numPermis": "Ausweis-Nr."
+          }
+      }
+    },
+    "eMedco":{
+      "url":"https://cariegov.sz.ch/ecari-medko/ui/app/init/#/login",
+      "user":"",
+      "pass":"",
+      "token":""
+    }
+
+}

@@ -1,0 +1,183 @@
+{
+  "multiLangue": false,
+  "version": "428.10.121",
+  "eAuction": {
+      "url": "https://egov.stva.sg.ch/ecari-auction",
+      "nombreOnglet": "3",
+      "tempsAffichage": "",
+      "texts": {
+        "de": {
+          "cantonLibelle": "Kanton St.Gallen",
+          "titre": "Kontrollschilderauktion",
+          "lienNewUser": "Registrieren",
+          "lienLogin": "Login",
+          "basPage1": "Kanton St.Gallen",
+          "basPage2": "Strassenverkehrsamt",
+          "onglet1": "Laufende Versteigerungen",
+          "onglet2": "Wunschkontrollschild",
+          "onglet3": "Kontrollschild Direktverkauf"
+        }
+      }
+  },
+  "eAdresse": {
+      "url": "https://egov.stva.sg.ch/ecari-adresse",
+      "nombreDePermis": "5",
+      "infoDetenteur": {
+          "numeroPCC": "007314741001",
+          "dateNaissance": "04.01.1978"
+      },
+      "texts": {
+          "textsLoginPage":{
+            "libelleCanton": "Kanton St.Gallen",
+            "lienSiteWebCanton": "http://www.stva.sg.ch",
+            "textTitrePage": "Online-Dienste des Strassenverkehrs- und Schifffahrtsamt des Kantons St.Gallen",
+            "titre": "Adressänderung",
+            "text1": "Bei einem Wegzug aus dem Kanton St.Gallen oder falls nur die Postzustellung an eine andere Adresse erfolgen soll, möchten wir Sie bitten uns dies mit dem Formular Änderung der Postzustelladresse mitzuteilen.",
+            "text2": "Bei einem Wegzug aus dem Kanton St.Gallen oder falls nur die Postzustellung an eine andere Adresse erfolgen soll, möchten wir Sie bitten uns dies mit dem Formular \"Änderung der Postzustelladresse\" mitzuteilen."
+          },
+          "titre": "IDENTIFIKATION HALTER",
+          "textExplication": "Bitte identifizieren Sie sich, indem Sie auf eines der Bilder unten klicken, entsprechend einem Ihrer Ausweise. Nachdem Sie die neue Adresse bestätigt haben, ist die Adresse für alle Ihre Ausweise korrigiert (ein einziger Adresswechsel genügt).",
+          "sousTitre": "",
+          "textSousTitre": "",
+          "circulation1": "Fahrzeugausweis",
+          "circulation2": "Motorwagen, Motorrad",
+          "autorisation1": "Bewilligungskarte",
+          "autorisation2": "Theorie, Praktische Prüfung",
+          "eleve1": "Lernfahrausweis",
+          "eleve2": "Motorwagen, Motorrad",
+          "conduireBleu1": "Führerausweis",
+          "conduireBleu2": "blauer Ausweis, Schiff",
+          "conduireCarte1": "Führerausweis",
+          "conduireCarte2": "FAK, FAP",
+          "champObligatoire": "Obligatorisch",
+          "champsCarteGrise": {
+              "titre": "Identifizierung mit Fahrzeugausweis",
+              "text": "Geben Sie bitte die Register-Nr., Ihr Geburtsdatum sowie die Stamm-Nr. ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "numMatric": "Stamm-Nr."
+          },
+          "champAutorisation": {
+              "titre": "Identifizierung mit Bewilligungskarte",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champEleve": {
+              "titre": "Identifizierung mit Lernfahrausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Ausstelldatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Ausstelldatum"
+          },
+          "champBleu": {
+              "titre": "Identifizierung mit blauem Führer-, Schiffsausweis",
+              "text": "Geben Sie bitte Ihr Geburtsdatum, die Register-Nr. sowie das Prüfungsdatum ein",
+              "numRegistre": "Register-Nr.",
+              "dateNaiss": "Geburtsdatum",
+              "dateEtabli": "Prüfungsdatum"
+          },
+          "champPCC": {
+              "titre": "Identifizierung mit FAK/FAP",
+              "text": "Geben Sie bitte Ihr Geburtsdatum sowie die Ausweis-Nr. (Ziffer 5.) ein",
+              "dateNaiss": "Geburtsdatum",
+              "numPermis": "Ausweis-Nr."
+          }
+      }
+    },
+    "eDispo":{
+      "url": "https://egov.stva.sg.ch/ecari-dispoweb/ui/app/init/#/",
+      "textMainPageDE" : {
+        "titre" : "Seite nicht gefunden",
+        "sousTitre" : "Die aufgerufene Seite konnte nicht gefunden werden. Bitte versuchen Sie es mit einem der untenstehenden Links:",
+        "langue" : "Sprache",
+        "vehiculePrive": "Fahrzeugprüfungen",
+        "vehiculePartenaire": "Fahrzeugprüfungen für Partner",
+        "conduitePrivee": "Führerprüfungen",
+        "conduiteMoniteur" : "Prüfungstermine für Fahrlehrer"
+      },
+      "textMainPageTI" : {
+        "titre" : "Pagina non trovata",
+        "sousTitre" : "La pagina richiesta non è stata trovata. La invitiamo a voler riprovare con il seguente links:",
+        "langue" : "Lingua",
+        "vehiculePrive": "Collaudo veicoli",
+        "vehiculePartenaire": "Collaudo veicoli per partner",
+        "conduitePrivee": "Esami conducenti",
+        "conduiteMoniteur" : "Esami conducenti per maestri conducenti"
+    },
+    "vehiculePriveDE":{
+      "titre" : "Online Dispo - Fahrzeugprüfungen",
+      "login" : "Login",
+      "helpLien" : "Klicken Sie hier, um die notwendigen Informationen auf dem Aufgebot zu suchen.",
+      "numRDV" : "Aufgebot Nr.",
+      "numeroMatricule" : "Stammnummer",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePartenaireDE" :{
+      "titre" : "Online Dispo - Fahrzeugprüfungen für Partner",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "info.winkeln",
+      "emailPartie02": "info.winkeln@sg.ch"
+    },
+    "conduitePriveeDE":{
+      "titre" : "Führerprüfungen",
+      "login" : "Login",
+      "numeroCandidat" : "Kandidaten-Nr.",
+      "dateNaissance" : "Geburtsdatum",
+      "sousTitre" : "Klicken Sie hier, um zu sehen, wo sich die Personen-Nummer auf Ihrer Zulassungsbestätigung oder Ihrem Lernfahrausweis befindet.",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "conduiteMoniteurDE": {
+      "titre" : "Online Dispo - Prüfungstermine für Fahrlehrer",
+      "login" : "Login",
+      "user" : "Benutzer",
+      "pass" : "Passwort",
+      "sousTitre" : "Falls Sie Ihr Passwort vergessen haben, kontaktieren Sie uns bitte unter folgender Adresse:",
+      "champsObligatoire" : "Dieses Feld ist erforderlich",
+      "emailPartie01": "disposition",
+      "emailPartie02": "stva.gr.ch",
+      "champsObligatoire" : "Dieses Feld ist erforderlich"
+    },
+    "vehiculePriveTI":{
+      "titre" : "Collaudi online - Collaudo veicoli",
+      "login" : "Login",
+      "helpLien" : "Clicchi qui per cercare le informazioni necessarie sull'invito al collaudo",
+      "numRDV" : "Convocazione no.",
+      "numeroMatricule" : "Matricola",
+      "champsObligatoire" : "Questo campo è obbligatorio"
+    },
+    "vehiculePartenaireTI" :{
+      "titre" : "Collaudi online - Collaudo veicoli per partner",
+      "login" : "Login",
+      "user" : "Utente",
+      "pass" : "Passwort",
+      "sousTitre" : "Se ha dimenticato la parola d'accesso, La preghiamo di contattarci all'indirizzo:",
+      "champsObligatoire" : "Questo campo è obbligatorio",
+      "emailPartie01": "disposition",
+      "emailPartie02": "stva.gr.ch"
+    },
+    "conduitePriveeTI":{
+      "titre" : "Collaudi online - Esami conducenti",
+      "login" : "Login",
+      "numeroCandidat" : "No Reg.",
+      "dateNaissance" : "Data di nascita",
+      "sousTitre" : "Clicchi qui per trovare il No Reg. sulla licenza per allievo conducente.",
+      "champsObligatoire" : "Questo campo è obbligatorio"
+    },
+    "conduiteMoniteurTI": {
+      "titre" : "Collaudi online - Esami conducenti per maestri conducenti",
+      "login" : "Login",
+      "user" : "Utente",
+      "pass" : "Passwort",
+      "sousTitre" : "Se ha dimenticato la parola d'accesso, La preghiamo di contattarci all'indirizzo:",
+      "champsObligatoire" : "Questo campo è obbligatorio",
+      "emailPartie01": "disposition",
+      "emailPartie02": "stva.gr.ch"
+    }
+  }
+}

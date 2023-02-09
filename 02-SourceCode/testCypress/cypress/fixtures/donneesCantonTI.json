@@ -1,0 +1,140 @@
+{
+  "multiLangue": false,
+  "version": "428.10.138",
+  "eAuction": {
+      "url": "https://www.carieauktion.ti.ch/ecari-auktion/",
+      "nombreOnglet": "4",
+      "tempsAffichage": "",
+      "texts": {
+        "ti": {
+          "titre": "Asta targhe",
+          "lienNewUser": "Creare utente",
+          "lienLogin": "Login",
+          "basPage": "",
+          "onglet1": "Aste in corso",
+          "onglet2": "Iscrizione per le future aste",
+          "onglet3": "Targhe prezzo fisso",
+          "onglet4": "Targhe desiderate",
+          "textPlaque01": "Numero targa",
+          "textPlaque02": "Targhe tra",
+          "textPlaque03": "Prezzo tra"
+        }
+      }
+  },
+  "eAdresse": {
+      "url": "https://www.carieadresse.ti.ch/ecari-adresse/",
+      "nombreDePermis": "5",
+      "infoDetenteur": {
+          "numeroPCC": "004440113004",
+          "dateNaissance": "05.02.1979"
+      },
+      "texts": {
+          "textsLoginPage":{
+            "titre": "Strassenverkehrsamt",
+            "text1": "Mit diesem Online-Dienst können Sie als natürliche Person Änderungen Ihrer Halter-Adresse (Wohnsitzadresse) innerhalb des Kantons Thurgau direkt beim Strassenverkehrsamt Thurgau durchführen.",
+            "text2": "Für einen Kantonswechsel informieren Sie sich bitte bei Ihrem neuen Wohnsitzkanton.",
+            "bouton1": "Identifizierung",
+            "bouton2": "Beenden"
+          },
+          "titre": "CAMBIAMENTO D'INDIRIZZO ONLINE",
+          "textExplication": "Vi invitiamo a volervi identificare cliccando su una delle immagini sotto, in corrispondenza alla vostra licenza. Dopo aver confermato il nuovo indirizzo, quest’ultimo sarà valido per tutte le sue licenze (un solo cambiamento d’indirizzo è sufficiente).",
+          "sousTitre": "",
+          "textSousTitre": "",
+          "circulation1": "Licenza di circolazione",
+          "circulation2": "Automobile, Motoveicolo",
+          "autorisation1": "Autorizzazione esame",
+          "autorisation2": "Teoria, pratica",
+          "eleve1": "Licenza allievo conducente",
+          "eleve2": "Automobile, Motoveicolo",
+          "conduireBleu1": "Licenza di condurre",
+          "conduireBleu2": "Licenza di condurre blu, Natante",
+          "conduireCarte1": "Licenza di condurre",
+          "conduireCarte2": "LCC, LCP",
+          "champObligatoire": "Inserire i dati",
+          "champsCarteGrise": {
+              "titre": "Identificazione con licenza di circolazione",
+              "text": "Voglia inserire il no° NIP, la vostra data di nascita e il no° di matricola",
+              "numRegistre": "no° NIP",
+              "dateNaiss": "Data di nascita",
+              "numMatric": "no° di matricola"
+          },
+          "champAutorisation": {
+              "titre": "Identificazione con autorizzazione esame teorico/pratico",
+              "text": "Voglia inserire il no° NIP, la vostra data di nascita e una data di inizio validità",
+              "numRegistre": "no° NI",
+              "dateNaiss": "Data di nascita",
+              "dateEtabli": "Data del rilascio"
+          },
+          "champEleve": {
+              "titre": "Identificazione con licenza allievo conducente",
+              "text": "Voglia inserire il no° NIP, la vostra data di nascita e una data di inizio validità",
+              "numRegistre": "no° NI",
+              "dateNaiss": "Data di nascita",
+              "dateEtabli": "Data del rilascio"
+          },
+          "champBleu": {
+              "titre": "Identificazione con licenza di condurre blu veicolo/navigazione",
+              "text": "Voglia inserire il no° NIP, la vostra data di nascita e una data di un esame",
+              "numRegistre": "no° NI",
+              "dateNaiss": "Data di nascita",
+              "dateEtabli": "Data dell’esame"
+          },
+          "champPCC": {
+              "titre": "Identificazione con LCC / LCP",
+              "text": "Voglia inserire il no° della licenza (punto 5) e la vostra data di nascita",
+              "dateNaiss": "Data di nascita",
+              "numPermis": "no° licenza di condurre"
+          }
+      }
+    },
+    "eDispo":{
+      "url": "https://www.cariedispoweb.ti.ch/ecari-dispoweb/",
+      "textMainPageTI" : {
+        "titre" : "Pagina non trovata",
+        "sousTitre" : "La pagina richiesta non è stata trovata. La invitiamo a voler riprovare con il seguente links:",
+        "langue" : "Lingua",
+        "vehiculePrive": "Collaudo veicoli",
+        "vehiculePartenaire": "Collaudo veicoli per partner",
+        "conduitePrivee": "Esami conducenti",
+        "conduiteMoniteur" : "Esami conducenti per maestri conducenti"
+    },
+    "vehiculePriveTI":{
+      "titre" : "Appuntamenti online - Collaudo veicoli",
+      "login" : "Login",
+      "loginH": "Login Aide",
+      "helpLien" : "Clicchi qui per cercare le informazioni necessarie sull'invito al collaudo",
+      "numRDV" : "Convocazione no.",
+      "numeroMatricule" : "Matricola",
+      "champsObligatoire" : "Questo campo è obbligatorio"
+    },
+    "vehiculePartenaireTI" :{
+      "titre" : "Appuntamenti online - Collaudo veicoli per partner",
+      "login" : "Login",
+      "user" : "Utente",
+      "pass" : "Password",
+      "sousTitre" : "ePartner",
+      "champsObligatoire" : "Questo campo è obbligatorio",
+      "emailPartie01": "disposition",
+      "emailPartie02": "di-sc.ufficiotecnicoti.ch"
+    },
+    "conduitePriveeTI":{
+      "titre" : "Appuntamenti online - Esami conducenti",
+      "login" : "Login",
+      "loginH": "Login Aide",
+      "numeroCandidat" : "NIP (Allievo)",
+      "dateNaissance" : "Data di nascita",
+      "sousTitre" : "Clicchi qui per trovare il numero di registrazione sulla licenza per allievo conducente.",
+      "champsObligatoire" : "Questo campo è obbligatorio"
+    },
+    "conduiteMoniteurTI": {
+      "titre" : "Appuntamenti online - Esami conducenti per maestri conducenti",
+      "login" : "Login",
+      "user" : "Utente",
+      "pass" : "Password",
+      "sousTitre" : "Se ha dimenticato la parola d'accesso, La preghiamo di contattarci all'indirizzo:",
+      "champsObligatoire" : "Questo campo è obbligatorio",
+      "emailPartie01": "disposition",
+      "emailPartie02": "di-sc.ufficiotecnicoti.ch"
+    }
+  }
+}
